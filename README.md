@@ -1,8 +1,6 @@
 Supported tags and respective `Dockerfile` links
 ================================================
 
-  * [`latest` (Dockerfile)](https://github.com/wernight/docker-dante/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/wernight/dante.svg)](https://microbadger.com/images/wernight/dante "Get your own image badge on microbadger.com")
-
 
 What is Dante
 -------------
