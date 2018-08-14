@@ -52,8 +52,3 @@ Note: SOCKS v4 will be blocked.
 
 WARNING: Many browsers do **not** support SOCKS authentication (e.g. see this [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=256785)).
 
-
-Feedbacks
----------
-
-Suggestions are welcome on our [GitHub issue tracker](https://github.com/wernight/docker-dante/issues).
